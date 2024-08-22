@@ -1,4 +1,4 @@
-# A grammar of Mandan % \subtitle{Add subtitle here if it exists}
+# A grammar of Mandan 
 ## Publication Info
 - Authors: Ryan M. Kasak %use this field for editors as well
 - Publication Date: not yet published
